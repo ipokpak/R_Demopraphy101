@@ -1,0 +1,14 @@
+# R_Demopraphy101
+
+install.packages('demography')
+install.packages('forecast') 
+install.packages('Rcpp') 
+install.packages('scales') 
+install.packages('lazyeval') 
+install.packages('tibble') 
+install.packages('curl') 
+install.packages('lifecontingencies') 
+
+library("demography")
+library("forecast")
+library(lifecontingencies)
